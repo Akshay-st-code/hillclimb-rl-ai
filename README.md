@@ -97,7 +97,7 @@ python evaluate.py
 
 **Podupuganti Akshay**  
 B.Tech, Software Engineering – 2024-25  
-Contact: [akshay25112003@example.com]
+Contact: [akshay25112003@gmail.com]
 
 ---
 
