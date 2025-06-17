@@ -1,0 +1,8 @@
+ultralytics==8.0.145
+torch>=2.0.0
+numpy
+opencv-python
+matplotlib
+pyautogui
+pillow
+tensorboard

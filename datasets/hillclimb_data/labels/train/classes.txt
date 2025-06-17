@@ -1,0 +1,5 @@
+fuel_level
+car
+coin
+diamond
+fuel_can

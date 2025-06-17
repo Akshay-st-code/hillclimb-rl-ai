@@ -1,0 +1,11 @@
+path: C:/Users/aksha/Desktop/AI_Hill_Climb_Racing/datasets/hillclimb_data
+train: images/train
+val: images/val
+
+names:
+  0: fuel_level
+  1: car
+  2: coin
+  3: diamond
+  4: fuel_can
+
