@@ -36,8 +36,8 @@ hillclimb_rl/
 
 ### ✅ 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/hillclimb-rl.git
-cd hillclimb-rl
+git clone https://github.com/Akshay-st-code/hillclimb-rl-ai.git
+cd hillclimb-rl-ai
 ```
 
 ### ✅ 2. Install dependencies
@@ -97,7 +97,7 @@ python evaluate.py
 
 **Podupuganti Akshay**  
 B.Tech, Software Engineering – 2024-25  
-Contact: [your_email@example.com]
+Contact: [akshay25112003@example.com]
 
 ---
 
